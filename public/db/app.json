@@ -1,0 +1,11 @@
+{
+    "test": [
+        {"id": 1, "title": "portfel", "value": "1000 zł"},
+        {"id": 2, "title": "zainwestowane", "value": "950 zł"}
+    ],
+    "instruments": [
+        {"id": 1, "name": "palad"},
+        {"id": 2, "name": "dax"},
+        {"id": 3, "name": "pln-usd"}
+    ]
+}
