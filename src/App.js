@@ -17,8 +17,8 @@ import DataRecorder from './components/views/DataRecorder/DataRecorder';
 
 const theme = createMuiTheme({
   palette: {
-    primary: { main: '#2D1E13' },
-    secondary: { main: '#F1DABF' },
+    primary: { main: '#294765' },
+    secondary: { main: '#46AD46' },
   },
 });
 

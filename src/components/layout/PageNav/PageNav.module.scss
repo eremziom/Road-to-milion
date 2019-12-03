@@ -1,3 +1,6 @@
+@import '../../../styles/settings.scss';
+
 .link {
-  color: inherit;
+  color: $color-two;
+  font-family: $font-main;
 }
