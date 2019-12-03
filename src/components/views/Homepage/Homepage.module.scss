@@ -1,21 +1,5 @@
 @import '../../../styles/settings.scss';
 
-.component {
-  text-align: center;
-  padding: 50px 0;
-  color: $color-two;
-}
-
-.box {
-  border-style: ridge;
-  border-radius: 10px;
-  border-color: $color-main;
-  width: 600px;
-  margin: 0 auto;
-  background: black;
-  opacity: 0.8;
-}
-
 .text {
   font-family: $font-main;
   color: $color-two;
@@ -27,16 +11,8 @@
   color: $color-two;
 }
 
-.wrapper {
-  display: flex;
-  justify-content: space-between;
-  width: 600px;
-  margin: 0 auto;
-}
-
 .button {
   width: 200px;
-  margin: 50px 0;
   font-size: 30px;
   font-family: $font-main;
   color: $color-two;

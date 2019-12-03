@@ -1,0 +1,23 @@
+@import '../../../styles/settings.scss';
+
+.input {
+  background-color: $color-main;
+  border-radius: 5px;
+  display: block;
+  width: 400px;
+  margin: 10px auto;
+  input {
+    color: $color-two;
+    font-family: $font-main;
+    font-size: $font-size-small;
+    width: 372px;
+  }
+  label {
+    color: $color-two;
+    font-family: $font-main;
+  }
+}
+
+.inputWrapper {
+  display: block;
+}
